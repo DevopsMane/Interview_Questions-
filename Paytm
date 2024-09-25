@@ -1,0 +1,26 @@
+Interview_Questions 
+Round 1 -
+- AWS application design in current organization
+- AWS Ec2 types volumes, difference between ALB and NLB(General Purpose SSD volumes (gp3), gp2,IO, throughput, load balancer)
+- why your application choose the above load balancer
+- How the CORS present in S3 (Select the bucket from the list, and click Configure CORS. Paste the CORS configuration XML into the text box, and click Save. To modify the CORS setting for the bucket, update the CORS configuration XML in the text box, and click Save)
+- S3 types, R53 and the use in our application ()
+- Amazon certificate manager (ACM)
+- Kubernetes (pods managemet, memory and ram utilization check)
+- Types of Kubernetes services (loadbalancer, Ingress, clusterip, nodeport)
+- Monitoring added to Kubernetes (Prometheus)
+- how the node port and cluster ip are managed 
+- Kubernetes commands
+- Linux commands
+- Persistant volumes in Kubernetes and manifest file creation
+- Docker and its layers 
+
+Round 2 - Design of Jenkins
+- Integration with each tools like (Sonar, build tools and ansible)
+- How the deployment is done in cloud via ansible
+- Ansible SSH keys and the architecture diagram
+- Ansible roles and playbook design
+- Jenkins roles and user management
+- Cloudfront and the use and how will the PAYTM reduces the latency(For example the image load time)
+- How to debug the REST API hit error (for example 404 or 503)
+- Tomcat and apache integration
